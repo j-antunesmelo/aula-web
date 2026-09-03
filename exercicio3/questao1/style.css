@@ -1,0 +1,12 @@
+.perfil{
+    width: 320px;
+    background-color: rgb(255, 255, 255);
+    border: grey solid 1px;
+    padding: 24px;
+    border-radius: 8px;
+    margin: auto;
+}
+.perfil h1{
+    color: darkblue;
+    
+}

@@ -1,0 +1,43 @@
+.galeriA📸​{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    padding: 24px;
+}
+
+.foto {
+    height: 130px;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.foto-1 {
+    background-color: red;
+}
+
+.foto-2 {
+    background-color: orange;
+}
+
+.foto-3 {
+    background-color: yellow;
+}
+
+.foto-4 {
+    background-color: greenyellow;
+}
+
+.foto-5 {
+    background-color: #2ECC71;
+}
+
+.foto-6 {
+    background-color: blue;
+}

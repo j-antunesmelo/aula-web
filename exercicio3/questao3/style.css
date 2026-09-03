@@ -1,0 +1,25 @@
+.Cartoes {
+    display: flex;
+    gap: 12px;
+}
+
+.card {
+    width: 180px;
+    height: 120px;
+    padding: 16px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+}
+
+.card.amarelo {
+    background-color: rgb(251, 255, 0);
+}
+
+.card.azul {
+    background-color: deepskyblue;
+}
+
+.card.verde {
+    background-color: forestgreen;
+}

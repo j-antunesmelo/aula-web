@@ -1,0 +1,12 @@
+.principal{
+    background-color: navy;
+    height: 80px;
+    width: 100%;
+    margin: 10px;
+}
+.secundaria{
+    background-color:lawngreen;
+    height: 80px;
+    width: 100%;
+    margin: 10px;
+}

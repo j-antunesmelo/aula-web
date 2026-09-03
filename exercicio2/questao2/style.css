@@ -1,0 +1,9 @@
+.text{
+    height: 1px;
+    color:darkblue;
+    margin: 10px;
+}
+p{
+    font-size: 16px;
+    color: gray;
+}
